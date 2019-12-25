@@ -6,16 +6,7 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>myMahout</name>
-	<build>
-		<pluginManagement>
-			<plugins>
-				<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-			</plugins>
-		</pluginManagement>
-	</build>
+	
 	<url>http://maven.apache.org</url>
 
 	<properties>
